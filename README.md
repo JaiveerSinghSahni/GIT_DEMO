@@ -1,5 +1,6 @@
 # GIT_DEMO
-## A demo repo for understanding and working with git 
+## A demo repository for understanding git and its commands <br>
 * Made by Jaiveer Singh Sahni <br>
 * Looking to learn Git 
+
 
